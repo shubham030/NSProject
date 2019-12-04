@@ -18,3 +18,7 @@ html{
 .main__footer h3{
   margin-right: 10px;
 }
+.main__footer{
+  background-color: #888888;
+  padding: 20px;
+ }
